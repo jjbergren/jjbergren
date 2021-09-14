@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjbergren
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C# and python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full stack development and database management. 
+- 🌱 I’m currently learning C# and SQL.
+- 💞️ I’m looking to collaborate.
 - 📫 Email me!
 
 <!---
