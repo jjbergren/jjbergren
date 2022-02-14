@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjbergren.
+- 👋 Hi, I’m [@jjbergren.](https://www.linkedin.com/in/jjbergren/)
 - 👀 I’m interested in full stack development and database management. 
 - 🌱 I’m currently learning SQL and data visualization. 
 - 💞️ I’m looking to collaborate.
